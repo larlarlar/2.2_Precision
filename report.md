@@ -28,7 +28,7 @@ public class Main {
 ## Результаты
 
 1. 100 % неуспешных тестов (1).
-2. [Приложение некорректно складывает "бонусы" 0.3 и 0.6](https://github.com/larlarlar/2.2_Precision/issues/1#issue-782215558)
+2. [Приложение некорректно складывает "бонусы"](https://github.com/larlarlar/2.2_Precision/issues/1#issue-782215558)
 
 ## Общие рекомендации
 
